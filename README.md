@@ -7,7 +7,7 @@ Ele está publicado online no GitHub Pages.
 
 ## 🌐 Acesse o site
 
-[🌟 Clique aqui para visitar meu site!](https://kawebxsz.github.io/my-first-site/)
+[⚡ Clique aqui para visitar meu site!](https://kawebxsz.github.io/my-first-site/)
 
 ---
 
